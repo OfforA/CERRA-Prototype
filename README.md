@@ -8,8 +8,8 @@ Notable Features:
 - Academic Accomodations report system
 - The Cerra Dashboard
 
-<img width="266" alt="Screenshot 2022-08-22 at 9 35 57 PM" src="https://user-images.githubusercontent.com/111409337/186049339-c7c2d2df-deab-4cfc-9cac-e05e3a30a784.png"> <img width="305" alt="Screenshot 2022-08-22 at 9 36 32 PM" src="https://user-images.githubusercontent.com/111409337/186049340-7f64bee7-a0ed-4290-b78c-4bce4b515138.png"> 
-<img width="373" alt="Screenshot 2022-08-22 at 9 45 05 PM" src="https://user-images.githubusercontent.com/111409337/186050565-ea4d1c79-86dd-4e4a-b640-04d1f14ea918.png">
+<img width="169" alt="Screenshot 2022-08-22 at 10 03 14 PM" src="https://user-images.githubusercontent.com/111409337/186052559-6ca229c8-63e6-4848-a76b-8be1e2f7bce0.png"> <img width="172" alt="Screenshot 2022-08-22 at 10 03 27 PM" src="https://user-images.githubusercontent.com/111409337/186052587-8e8f7c3e-2c7b-40f6-b02c-1a52ea0983ff.png">
+
 
 
 This product was created to provide student users with the ability to alter, create, and organize around basic Ryerson resources and educational obligations including the ability to access an user friendly accomdations report system in tandom with general course materials.
