@@ -2,7 +2,7 @@
 - A user-friendly LMS prototype serving students with academic accommodations. Utilising Figma & market research strategies.
 
 Access full wireframe here: 
-[CARRA DEMO.pdf](https://www.figma.com/file/Bl5aaD9zPUufmpxGUXyKAM?embed_host=share&kind=&node-id=0%3A1&viewer=1)
+[CARRA WIREFRAME.pdf](https://www.figma.com/file/Bl5aaD9zPUufmpxGUXyKAM?embed_host=share&kind=&node-id=0%3A1&viewer=1)
 
 Notable Features:
 - Academic Accomodations report system
